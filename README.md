@@ -125,5 +125,6 @@ If you want to evolve your schema and keep track of the migration history, you c
 
 ## Refs
 
-https://developers.cloudflare.com/d1/
-https://blog.cloudflare.com/prisma-orm-and-d1
+* https://developers.cloudflare.com/d1/
+* https://blog.cloudflare.com/prisma-orm-and-d1
+* https://itty.dev/
